@@ -1,0 +1,28 @@
+## SELF INTRODUCTION
+I am G O Ashwin Praveen, a first-year Computer Science Engineering student. I passed Class 12 from CBSE Board with a aggregate 95.6% in the Computer Science stream. I know some basics of python.
+
+
+## WHY SHOULD WE CHOOSE YOU
+As a Computer Science enthusiast, I've mastered the fundamentals of Python and got an impressive 97 marks in the subject. My performance in the Amrita Engineering Entrance Examination underscores my dedication and diligence, traits that I consistently apply to my endeavors.
+Evidenced by a commendable rank in the Kerala Engineering exam, I consistently strive for excellence. My ingenuity shines through my Class 12 project— Carshop Database Management System that ingeniously integrates MySQL and Python, showcasing my proficiency in both 
+programming and database management. My learning journey doesn't stop there; I've embarked on mastering the intricacies of the C programming language. My unyielding work ethic and unwavering commitment make me the perfect candidate for this esteemed club.
+
+
+## What are your goals for the next six months? How will you accomplish them?
+
+Over the next six months, I'm committed to achieving several goals:
+
+1. Becoming a Part of AMFOSS : I aim to join AMFOSS, an opportunity to contribute to open-source projects.
+   
+2. Mastering C, C++, and Java : I will learn programming languages like C, C++, and Java. Through focused learning and practical applications, I'll build a good foundation in these languages.
+   
+3. Elevating Python Proficiency:My plan involves taking my Python skills to new heights. By delving into advanced concepts and real-world projects, I'll enhance my versatility as a programmer.
+   
+4. Crafting a Noteworthy Program: Within the next six months, I intend to create a program that showcases my innovation and technical expertise. This project will be a culmination of the skills I've acquired.
+
+To achieve these ambitions, I'm prepared to put in the hard work, dedicating time daily to learning, practicing, and building. Engaging in hands-on projects aligned with each goal will reinforce my understanding and expertise. 
+
+## How will you contribute back to the club?
+I am fully committed to the club's objectives and will wholeheartedly dedicate myself to completing the assigned tasks within the given timelines. In the event that I encounter challenges beyond my current knowledge, I will proactively conduct thorough research and strive to successfully accomplish
+ those tasks. My determination to contribute effectively and learn from every experience will remain unwavering.
+
