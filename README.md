@@ -8,8 +8,7 @@ Evidenced by a commendable rank in the Kerala Engineering exam, I consistently s
 programming and database management. My learning journey doesn't stop there; I've embarked on mastering the intricacies of the C programming language. My unyielding work ethic and unwavering commitment make me the perfect candidate for this esteemed club.
 
 
-## What are your goals for the next six months? How will you accomplish them?
-
+## WHAT ARE YOUR GOALS FOR THE NEXT SIX MONTHS? HOW WILL YOU ACCOMPLISH THEM?
 Over the next six months, I'm committed to achieving several goals:
 
 1. Becoming a Part of AMFOSS : I aim to join AMFOSS, an opportunity to contribute to open-source projects.
@@ -22,7 +21,7 @@ Over the next six months, I'm committed to achieving several goals:
 
 To achieve these ambitions, I'm prepared to put in the hard work, dedicating time daily to learning, practicing, and building. Engaging in hands-on projects aligned with each goal will reinforce my understanding and expertise. 
 
-## How will you contribute back to the club?
+## HOW WILL YOU CONTRIBUTE BACK TO THE CLUB?
 I am fully committed to the club's objectives and will wholeheartedly dedicate myself to completing the assigned tasks within the given timelines. In the event that I encounter challenges beyond my current knowledge, I will proactively conduct thorough research and strive to successfully accomplish
- those tasks. My determination to contribute effectively and learn from every experience will remain unwavering.
+those tasks. My determination to contribute effectively and learn from every experience will remain unwavering.
 
