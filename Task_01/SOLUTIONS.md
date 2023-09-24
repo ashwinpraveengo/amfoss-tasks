@@ -1,9 +1,11 @@
 Terminal commands used for Terminal Wizard
 
-sudo apt update
-sudo apt install gh
+sudo apt update  
+
+sudo apt install gh  
 gh auth login 
-ls 
+ls  
+
 cd <directory> 
 git clone <repository url> 
 git add . 
