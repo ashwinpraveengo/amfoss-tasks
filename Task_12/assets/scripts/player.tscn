@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://bwndnfitt412h"]
+
+[ext_resource type="Script" path="res://player.gd" id="1_beeen"]
+[ext_resource type="PackedScene" uid="uid://cgv3o6be0xl" path="res://assets/scripts/hattori.tscn" id="2_a5mj1"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7223h"]
+size = Vector3(0.488594, 1.35016, 0.495408)
+
+[node name="player" type="CharacterBody3D"]
+transform = Transform3D(1, 0, 0, 0, 0.998064, -0.0621983, 0, 0.0621983, 0.998064, 0, 0, 0)
+script = ExtResource("1_beeen")
+
+[node name="CameraBase" type="Node3D" parent="."]
+
+[node name="Camera3D" type="Camera3D" parent="CameraBase"]
+transform = Transform3D(0.999982, 0.00282004, -0.00527095, -0.000437976, 0.913928, 0.405876, 0.00596186, -0.405866, 0.913913, 0, 2.06474, 3.0536)
+fov = 80.1122
+
+[node name="player" parent="." instance=ExtResource("2_a5mj1")]
+transform = Transform3D(-0.999294, -0.00297174, -0.0374503, 0.00233666, 0.99002, -0.140909, 0.0374952, -0.140897, -0.989314, 0, -0.844897, -1.86265e-08)
+
+[node name="CollisionShape3D2" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00618237, -0.0914663, -0.14778)
+shape = SubResource("BoxShape3D_7223h")
