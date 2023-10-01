@@ -38,8 +38,8 @@ those tasks. My determination to contribute effectively and learn from every exp
 [Task-08](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-08)|Poke-Search!|Completed
 [Task-09](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-09)|GeoQuest|Completed
 [Task-10](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-10)|RuskOS|Completed
-[Task-11](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-11)|Figma Ninja|Unattempted
-[Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-12)|Godot|Unattempted
+[Task-11](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-11)|TinkerCAD|Unattempted
+[Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-12)|Godot|Completed Partially
 [Task-13](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-13)|Vim|Completed
 [Task-14](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-14)|Bandit|Completed
 [Task-15](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-15)|Project Euler|Completed Partially
