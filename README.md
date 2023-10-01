@@ -27,13 +27,13 @@ those tasks. My determination to contribute effectively and learn from every exp
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-00)|Install Linux|Completed
+[Task-00](https://github.com/ashwinpraveengo/amfoss-tasks/tree/90d3fff404be60b850b280bb15b380b103d32c7d/Task-00)|Install Linux|Completed
 [Task-01](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-01)|Terminal Wizard|Completed
 [Task-02](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-02)|Lessgo Hugo|Completed
 [Task-03](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-03)|Hello, World!|Completed
 [Task-04](https://github.com/ashwinpraveengo/amfoss-tasks/tree/b8d8584eb550e9a3196a451c61578176d5afda20/Task-04)|Competitive Programming|Partially Completed
 [Task-05](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-05)|Hypertext Mockup Language|Completed
-[Task-06](https://github.com/ashwinpraveengo/amfoss-tasks/tree/aba20a6064ce8ab83f2102d298f0ed651b205dd5/Task-06)|Cricket Vault|Completed
+[Task-06](Task-06)|Cricket Vault|Completed
 [Task-07](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-07)|AK-47℃|Completed
 [Task-08](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-08)|Poke-Search!|Completed
 [Task-09](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-09)|GeoQuest|Partially Completed
