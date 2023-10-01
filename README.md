@@ -32,7 +32,7 @@ those tasks. My determination to contribute effectively and learn from every exp
 [Task-02](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-02)|Lessgo Hugo|Completed
 [Task-03](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-03)|Hello, World!|Completed
 [Task-04](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-04)|Competitive Programming|Partially Completed
-[Task-05](Task-05)|Hypertext Mockup Language|Completed
+[Task-05](https://github.com/ashwinpraveengo/amfoss-tasks/tree/5711ccf11174a7e6b68270d757db54bdd4f14889/Task-05)|Hypertext Mockup Language|Completed
 [Task-06](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-06)|Cricket Vault|Completed
 [Task-07](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-07)|AK-47℃|Completed
 [Task-08](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-08)|Poke-Search!|Completed
