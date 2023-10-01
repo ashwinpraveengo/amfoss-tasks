@@ -27,7 +27,6 @@ those tasks. My determination to contribute effectively and learn from every exp
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-
 [Task-00](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-01)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-02)|TerminalHunt|Completed
