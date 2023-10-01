@@ -31,9 +31,9 @@ those tasks. My determination to contribute effectively and learn from every exp
 [Task-01](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-01)|Terminal Wizard|Completed
 [Task-02](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-02)|Lessgo Hugo|Completed
 [Task-03](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-03)|Hello, World!|Completed
-[Task-04](https://github.com/ashwinpraveengo/amfoss-tasks/tree/b8d8584eb550e9a3196a451c61578176d5afda20/Task-04)|Competitive Programming|Partially Completed
+[Task-04](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-04)|Competitive Programming|Partially Completed
 [Task-05](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-05)|Hypertext Mockup Language|Completed
-[Task-06](Task-06)|Cricket Vault|Completed
+[Task-06](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-06)|Cricket Vault|Completed
 [Task-07](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-07)|AK-47℃|Completed
 [Task-08](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-08)|Poke-Search!|Completed
 [Task-09](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-09)|GeoQuest|Partially Completed
@@ -41,8 +41,8 @@ those tasks. My determination to contribute effectively and learn from every exp
 [Task-11](https://github.com/ashwinpraveengo/amfoss-tasks/tree/b8d8584eb550e9a3196a451c61578176d5afda20/Task-11)|TinkerCAD|Unattempted
 [Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-12)|Godot|Completed Partially
 [Task-13](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-13)|Vim|Completed
-[Task-14](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-14)|Bandit|Completed
-[Task-15](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-15)|Project Euler|Completed Partially
+[Task-14](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-14)|Bandit|Completed
+[Task-15](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-15)|Project Euler|Completed Partially
 
 
 
