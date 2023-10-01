@@ -1,4 +1,5 @@
 ## STEPS USED
+## PARTIALLY COMPLETED
 
-* Learned some basic functions of rusk
-* Then I resolved some errors.
+* Watched a YouTube video tutorial to learn basic game controls and movement in the Godot game development tool.
+* Utilized ChatGPT to assist in making arrangements for the game.
