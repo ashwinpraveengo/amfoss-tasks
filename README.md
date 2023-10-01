@@ -27,20 +27,20 @@ those tasks. My determination to contribute effectively and learn from every exp
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-00)|Installing Ubuntu|Completed
-[Task-01](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-01)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-02)|TerminalHunt|Completed
-[Task-03](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-03)|Programming|Completd Partially
-[Task-04](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-04)|CineBot|Completed
-[Task-05](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-05)|Find The Bug|Completed
-[Task-06](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-06)|Flame Game|Completed
-[Task-07](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-07)|Go WASM|Completed
-[Task-08](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-08)|Internet Explorer|Completed
-[Task-09](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-09)|Krypto Scrapper|Completed
-[Task-10](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-10)|CS50|Completed
+[Task-00](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-00)|Install Linux|Completed
+[Task-01](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-01)|Terminal Wizard|Completed
+[Task-02](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-02)|Lessgo Hugo|Completed
+[Task-03](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-03)|Hello, World!|Completed
+[Task-04](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-04)|Competitive Programming|Partially Completed
+[Task-05](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-05)|Hypertext Mockup Language|Completed
+[Task-06](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-06)|Cricket Vault|Completed
+[Task-07](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-07)|AK-47℃|Completed
+[Task-08](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-08)|Poke-Search!|Completed
+[Task-09](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-09)|GeoQuest|Completed
+[Task-10](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-10)|RuskOS|Completed
 [Task-11](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-11)|Figma Ninja|Unattempted
-[Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-12)|Bunny Heist|Unattempted
-[Task-13](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-13)|Footfall Counter|Completed
+[Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-12)|Godot|Unattempted
+[Task-13](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-13)|Vim|Completed
 [Task-14](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-14)|Bandit|Completed
 [Task-15](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-15)|Project Euler|Completed Partially
 
