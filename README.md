@@ -39,7 +39,7 @@ those tasks. My determination to contribute effectively and learn from every exp
 [Task-09](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-09)|GeoQuest|Partially Completed
 [Task-10](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-10)|RuskOS|Partially Completed
 [Task-11](https://github.com/ashwinpraveengo/amfoss-tasks/tree/b8d8584eb550e9a3196a451c61578176d5afda20/Task-11)|TinkerCAD|Unattempted
-[Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-12)|Godot|Completed Partially
+[Task-12](https://github.com/ashwinpraveengo/amfoss-tasks/tree/9fca999829184e5cea50bbe44692e8eee56cbc98/Task-12)|Godot|Completed Partially
 [Task-13](https://github.com/ashwinpraveengo/amfoss-tasks/tree/13f2e1e2e642cf39530be8f7bc26ee4217cea94b/Task-13)|Vim|Completed
 [Task-14](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-14)|Bandit|Completed
 [Task-15](https://github.com/ashwinpraveengo/amfoss-tasks/tree/0f1b3135525f0bd4595fabb8c3414b4d7e80c1d1/Task-15)|Project Euler|Completed Partially
