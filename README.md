@@ -29,21 +29,4 @@ those tasks. My determination to contribute effectively and learn from every exp
 
 
 
-asks List	Description	Status
-Introspection	Introspection	Completed
-Task-00	Installing Ubuntu	Completed
-Task-01	Staring amFOSS repositories	Completed
-Task-02	TerminalHunt	Completed
-Task-03	Programming	Completd Partially
-Task-04	CineBot	Completed
-Task-05	Find The Bug	Completed
-Task-06	Flame Game	Completed
-Task-07	Go WASM	Completed
-Task-08	Internet Explorer	Completed
-Task-09	Krypto Scrapper	Completed
-Task-10	CS50	Completed
-Task-11	Figma Ninja	Unattempted
-Task-12	Bunny Heist	Unattempted
-Task-13	Footfall Counter	Unattempted
-Task-14	Bandit	Completed
-Task-15	Project Euler	Completed Partially
+
