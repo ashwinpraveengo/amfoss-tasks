@@ -25,3 +25,25 @@ To achieve these ambitions, I'm prepared to put in the hard work, dedicating tim
 I am fully committed to the club's objectives and will wholeheartedly dedicate myself to completing the assigned tasks within the given timelines. In the event that I encounter challenges beyond my current knowledge, I will proactively conduct thorough research and strive to successfully accomplish
 those tasks. My determination to contribute effectively and learn from every experience will remain unwavering.
 
+
+
+
+
+asks List	Description	Status
+Introspection	Introspection	Completed
+Task-00	Installing Ubuntu	Completed
+Task-01	Staring amFOSS repositories	Completed
+Task-02	TerminalHunt	Completed
+Task-03	Programming	Completd Partially
+Task-04	CineBot	Completed
+Task-05	Find The Bug	Completed
+Task-06	Flame Game	Completed
+Task-07	Go WASM	Completed
+Task-08	Internet Explorer	Completed
+Task-09	Krypto Scrapper	Completed
+Task-10	CS50	Completed
+Task-11	Figma Ninja	Unattempted
+Task-12	Bunny Heist	Unattempted
+Task-13	Footfall Counter	Unattempted
+Task-14	Bandit	Completed
+Task-15	Project Euler	Completed Partially
