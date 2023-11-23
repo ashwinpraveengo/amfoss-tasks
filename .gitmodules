@@ -1,0 +1,12 @@
+[submodule "themes/hugo-developer-portfolio"]
+	path = themes/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "themes/portfolio-site/hugo-developer-portfolio"]
+	path = themes/portfolio-site/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "goport/hugo-developer-portfolio"]
+	path = goport/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "portfolio-site/hugo-developer-portfolio"]
+	path = portfolio-site/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio

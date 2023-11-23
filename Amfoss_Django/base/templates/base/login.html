@@ -1,0 +1,24 @@
+{% extends 'base/main.html' %}
+{% block content%}
+<body>
+
+    <div class="container">
+        
+<div class="logi">
+<h1> TO-DO LIST </h1>
+<div class="logbox">
+<form method="POST">
+<input type="hidden" name="csrfmiddlewaretoken" value="j758HvOUO0VLaSapKuSKBtNM5JeYwEwSxwywT8RQjCX4soUkIbJBfc6tcCNsNV2x">
+<p><label for="id_username">Username:</label> <input type="text" name="username" autofocus="" autocapitalize="none" autocomplete="username" maxlength="150" required="" id="id_username" class="button3"></p>
+<p><label for="id_password">Password:</label> <input type="password" name="password" autocomplete="current-password" required="" id="id_password" class="button3"></p>
+<input type="submit" value="Login" class="button1">
+</form>
+</div>
+<p> Don't have an account ? <a href="/register/">Register</a></p>
+<div>
+
+    </div>
+
+
+</div></div></body>
+{% endblock content%}
